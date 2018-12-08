@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Urfam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="category_about">About Urfa</string>
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_malls">Malls</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About 180 kilometers (110 miles) west of Kiziltepe, in South Eastern Anatolian region, lies the venerably old towns of Urfa (Sanliurfa).
+        According to both the Bible and Quran it is the birthplace of Abraham before his migration to Canaan, now Palestine.
+        Local Muslim legend differs from that of the other great monotheistic faiths by the intervention of one vicious and cruel King Nimrod, who had Abraham
+        launched from a catapult from the city's citadel to fall into a pile of burning wood.
+        Happily, God intervened, and turned the fire to water and the faggots to fish, and today, the visitor to the town
+        can visit the mosque complex surrounding Abraham's Cave and The Pool of Sacred Fish (Balikligöl) around it.
+        The cruel ruler's giant slingshot is represented by two Corinthian columns still standing atop the citadel.</string>
+
+    <string name="about_two">The province of Urfa covers the plateau which connects Anatolian peninsula to the Arabian peninsula and has a surface area of 18,584 square kilometers. The province has 10 districts and 772 villages.</string>
+    <string name="about_three">This is an Anatolian city which has figured in all the religions of the book. Old Testament prophets such as Jethro (Hz. Suayp), Job (Hz. Eyup), Elijah (Hz. Elyasa) and Abraham (Hz. Ibrahim) lived in this city, which in ancient times known as Edessa, and Moses (Hz. Musa) lived in the region for seven years working as a shepherd before returning to Egypt with his staff. It was in Sanliurfa that early Christians were first permitted to worship freely, and where the first churches were constructed openly. Pagan temples were converted to synagogues,
+        synagogues to churches and churches to mosques, resulting in a uniquely eclectic architecture.</string>
+    <string name="malls_about_one">Urfa City AVM</string>
+    <string name="malls_address_one">Esentepe Mah. Osmangazi Cd.</string>
+    <string name="malls_call_one">(0414) 316 06 08</string>
+    <string name="malls_about_two">Piazza AVM</string>
+    <string name="malls_address_two">11 Nisan Fuar Cd. No:42</string>
+    <string name="malls_call_two">(0414) 215 24 24</string>
+    <string name="malls_about_three">Novada AVM</string>
+    <string name="malls_address_three">Ataturk Bulvari No:27</string>
+    <string name="malls_call_three">(0414) 502 12 12</string>
+    <string name="malls_about_four">Park AVM</string>
+    <string name="malls_address_four">Cengiz Topel Cd. No:20/A</string>
+    <string name="malls_call_four">(0414) 314 29 00</string>
+    <string name="hotel_about_one">Dedeman Urfa</string>
+    <string name="hotel_address_one">Atatürk Mah. Hastane Cd. 63000</string>
+    <string name="hotel_call_one">(0414) 318 25 00</string>
+    <string name="hotel_about_two">Hilton Garden Inn Sanliurfa</string>
+    <string name="hotel_address_two">Karakoyunlu Mah. 11 Nisan Fuar Cd. No:54</string>
+    <string name="hotel_call_two">(0414) 318 50 00</string>
+    <string name="hotel_about_three">El Ruha Hotel</string>
+    <string name="hotel_address_three">Yeni Mah. Haleplibahçe Cd. 155/A</string>
+    <string name="hotel_call_three">(0414) 215 44 11</string>
+    <string name="hotel_about_four">Manici Hotel</string>
+    <string name="hotel_address_four">Bıçakçı Mah. 1252. Cd No:3</string>
+    <string name="hotel_call_four">(0414) 215 99 11</string>
+    <string name="hotel_about_five">Aslan Konuk Evi</string>
+    <string name="hotel_address_five">Camikebir Mah. 1351. Cd. No:10</string>
+    <string name="hotel_call_five">(0414) 215 15 75</string>
+    <string name="hotel_about_six">Hotel Istiklal</string>
+    <string name="hotel_address_six">Bıçakçı Mah. Balıklı Göl Cd. No:16</string>
+    <string name="hotel_call_six">(0414) 216 92 65</string>
+    <string name="hotel_about_seven">Hotel Bakay</string>
+    <string name="hotel_address_seven">Atatürk Mah. 11 Nisan Fuar Cd. No:28</string>
+    <string name="hotel_call_seven">(0414) 215 26 89</string>
+    <string name="museum_about_one">Şanlıurfa Arkeoloji ve Mozaik Museum</string>
+    <string name="museum_address_one">Haleplibahçe Mah. 2372. Cd</string>
+    <string name="museum_call_one">(0414) 312 53 32</string>
+    <string name="museum_about_two">İbrahim Tatlıses Müzik Müzesi</string>
+    <string name="museum_address_two">Tepe Mah. Harran Kapı Cd. No:136</string>
+    <string name="museum_call_two">(0414) 313 16 34</string>
+    <string name="museum_about_three">Culinary Museum</string>
+    <string name="museum_address_three">Camikebir Mah. 1349. Cd. No:3</string>
+    <string name="museum_call_three"> </string>
+    <string name="museum_about_four">Şanlıurfa oyun ve oyuncak müzesi</string>
+    <string name="museum_address_four">Şenevler Mah. 6120. Cd.</string>
+    <string name="museum_call_four"> </string>
+    <string name="museum_about_five">Urfa Kent Müzesi</string>
+    <string name="museum_address_five">Beykapusu Mah. 970. Sk. No:43</string>
+    <string name="museum_call_five"> </string>
+    <string name="places_about_one">Balıklıgöl</string>
+    <string name="places_address_one">Merkez Mah. Balıklı Göl Cd. Eyyübiye</string>
+    <string name="places_call_one">(0414) 318 51 00</string>
+    <string name="places_about_two">Halfeti Batık Cami</string>
+    <string name="places_address_two">Şimaliye Mah. Atatürk Cd. Halfeti</string>
+    <string name="places_call_two">0537 736 97 47</string>
+    <string name="places_about_three">Urfa Eski Kalıntıları</string>
+    <string name="places_address_three">Haleplibahçe Mah. 2372. Cd.</string>
+    <string name="places_call_three">(0414) 318 51 00</string>
+    <string name="places_about_four">Harran Kültür Evi</string>
+    <string name="places_address_four">İbn-i Teymiye Mah. Çeşme Sok. Harran</string>
+    <string name="places_call_four">0542 337 85 12</string>
+    <string name="places_about_five">Urfa Kalesi</string>
+    <string name="places_address_five">Yusufpaşa Mah. 5. Cd,</string>
+    <string name="places_call_five"> </string>
+    <string name="places_about_six">Tarihi Kapalı Çarşı</string>
+    <string name="places_address_six">Pınarbaşı Mah. Merkez Şanlıurfa</string>
+    <string name="places_call_six"> </string>
+
+
+</resources>
